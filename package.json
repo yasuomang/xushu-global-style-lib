@@ -11,7 +11,8 @@
     "build": "yarn clean && rollup -c",
     "clean": "rm -rf dist",
     "lint": "eslint . --ext .js,.ts --fix",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "prepublish": "yarn build"
   },
   "publishConfig": {
     "access": "public"
