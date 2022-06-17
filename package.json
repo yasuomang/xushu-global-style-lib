@@ -1,6 +1,6 @@
 {
   "name": "@m-xushu/global-style-lib",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "scss global style",
   "main": "./dist/index.cjs.js",
   "module": "./dist/index.esm.js",
