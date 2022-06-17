@@ -3,3 +3,5 @@ rollup.*.js
 yarn.lock
 node_modules/
 src/
+.husky/
+.vscode/

@@ -12,7 +12,7 @@
     "clean": "rm -rf dist",
     "lint": "eslint . --ext .js,.ts --fix",
     "prepare": "husky install",
-    "prepublish": "yarn build"
+    "version": "yarn build"
   },
   "publishConfig": {
     "access": "public"
