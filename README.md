@@ -1,12 +1,6 @@
-# \*\*\*项目
+# scss 公用样式库
 
-    \*\*\*项目
-
-## Develop
-
-```shell
-yarn && yarn dev
-```
+scss 公用样式库,一些基础变量，以及一些 class 样式类
 
 # git commit rules
 
