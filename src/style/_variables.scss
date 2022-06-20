@@ -1,15 +1,14 @@
-@import "./color_variables.css";
 // colors
 $colors: (
-  "primary": var(--primary),
-  "info": var(--info),
-  "danger": var(--danger),
-  "blue": var(--blue),
-  "white": var(--white),
-  "light": var(--light),
-  "grey": var(--grey),
-  "dark": var(--dark),
-  "black": var(--black),
+  "primary": #2da44e,
+  "info": #4b67af,
+  "danger": #791a15,
+  "blue": #4394e4,
+  "white": #fff,
+  "light": #4394e4,
+  "grey": #999,
+  "dark": #222,
+  "black": #000,
 );
 // font size
 $base-font-size: 16px;
